@@ -5,7 +5,7 @@ Organize, sort & analyze crowdfunding data to determine specific factors that ma
 ## Category Statistics 
 * This tab shows that out of 912 total theater related Kickstarter campaigns the United States, 525 were sucessful.
 
-![](⁨ParentCategoryOutcomes.png)
+![](⁨https://github.com/npantfoerder/kickstarter-analysis/blob/master/ParentCategoryOutcomes.png)
 
 ## Subcategory Statistics
 * There is a total of 4,114 Kickstarter campaigns and 3,038 of them are from the United States.
